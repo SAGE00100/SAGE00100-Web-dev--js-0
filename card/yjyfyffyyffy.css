@@ -1,0 +1,79 @@
+body{
+    background-color: blueviolet;
+}
+.out{
+    height: 24rem;
+    width: 16rem;
+    margin: auto;
+    background-color: rgb(68, 5, 126);
+    border-radius: 16px;
+   
+    
+}
+.inmg{
+ padding: 10px;
+ border-radius: 10px;
+}
+#kkl{
+    width: 100%;
+    border-radius: 10px;
+   
+}
+#klp{
+    font-family: cursive;
+    padding-left: 10px;
+    margin-top: 3px;
+    margin-bottom: 3px;
+}
+
+.ww{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aquamarine;
+    padding: 10px;
+
+
+}
+.wp{
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(108, 114, 112);
+    padding-right: 10px;
+    display: inline;
+    position: relative;
+    left: 95px;
+
+
+
+
+}
+
+.yu{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     margin-top: 0px;
+     margin-left: 5px;
+     margin-bottom: 4.5px;
+
+}
+.hh{
+    background-color: rgb(19, 80, 59);
+    border-color: rgba(108, 114, 112, 0.493);
+    
+}
+.ce{
+    border-radius: 50%;
+    margin-left: 15% ;
+    background-image: url(testpic.png);
+    width: 23px;
+    height: 23px;
+    outline: 2px rgb(116, 112, 112) solid;
+    background-color: rgb(35, 199, 199);
+    background-size: contain;
+}
+
+#ggg{
+    color: rgb(183, 46, 201);
+    display: inline;
+    position: relative;
+    left: 67px;
+    top: -42px;
+}
