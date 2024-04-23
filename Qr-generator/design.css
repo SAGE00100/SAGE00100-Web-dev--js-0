@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    background-color: antiquewhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    gap: 2rem;
+   
+}
+#container{
+    border: solid black 2px;
+    padding: 5rem;
+    display: flex;
+    flex-direction: column;
+    gap: 4rem;
+    height: 50rem;
+    background-color: bisque;
+    border-radius: 15px;
+    box-shadow: 0px 6px 10px gray;
+}
+#input{
+    height: 7rem;
+    border-radius: 15px;
+    font-size: 28px;
+}
+#button{
+    height: 4rem;
+   
+    border-radius: 18px;
+    font-size: 34px;
+    color: rgb(45, 138, 138);
+    background-color: rgb(201, 184, 161);
+    margin:16px;
+}
+
+#image{
+    margin: auto;
+    height: 19rem;
+    width: 14rem;
+    border: 2px solid gray;
+}
