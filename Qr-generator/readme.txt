@@ -1,0 +1,1 @@
+ your favourite qr-generator
